@@ -216,7 +216,7 @@ export function SalesManagementPage() {
             <TabsContent value="sell" className="space-y-4">
               <Card>
                 <CardHeader>
-                  <CardTitle>Sell Watches</CardTitle>
+                  <CardTitle>Sell Watc</CardTitle>
                   <CardDescription>Sell watches from your inventory to customers.</CardDescription>
                 </CardHeader>
                 <CardContent>
