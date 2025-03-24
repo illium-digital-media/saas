@@ -1,0 +1,28 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Next.js build output
+.next/
+out/
+
+# Optional: Ignore dotenv files if sensitive
+.env
+.env.*  
+
+# Mac system files
+.DS_Store
+
+# IDE-specific (VSCode, IntelliJ, etc.)
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Optional: ignore local testing artifacts
+coverage/
+*.local
+*.cache

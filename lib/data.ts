@@ -1,0 +1,48 @@
+export const watchData = [
+  {
+    id: "1",
+    brand: "Rolex",
+    model: "Submariner",
+    reference: "126610LN",
+    condition: "Excellent",
+    price: 12500,
+    status: "In Stock",
+  },
+  {
+    id: "2",
+    brand: "Omega",
+    model: "Speedmaster",
+    reference: "311.30.42.30.01.005",
+    condition: "Very Good",
+    price: 8750,
+    status: "Reserved",
+  },
+  {
+    id: "3",
+    brand: "Cartier",
+    model: "Santos",
+    reference: "WSSA0018",
+    condition: "Good",
+    price: 6800,
+    status: "Sold",
+  },
+  {
+    id: "4",
+    brand: "Patek Philippe",
+    model: "Nautilus",
+    reference: "5711/1A-010",
+    condition: "New",
+    price: 85000,
+    status: "On Order",
+  },
+  {
+    id: "5",
+    brand: "TAG Heuer",
+    model: "Carrera",
+    reference: "CV201AK.BA0727",
+    condition: "Excellent",
+    price: 3200,
+    status: "In Stock",
+  },
+]
+
